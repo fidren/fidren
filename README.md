@@ -3,15 +3,13 @@
 I'm a passionate software developer.
 Currently diving deep into backend development with Java, but I also enjoy crafting full-stack solutions.
 
-### 🚀 What I'm working on
+### 🛠️ Selected Projects
 **🎫 PassGo – Smart Ticketing Platform**  
 A modern ticket sales system allowing users to buy and resell event tickets.  
 Organizers can manage events, and admins supervise the entire system.  
 We're using automated build, testing, and deployment pipelines to streamline development.  
 *Status: In progress, team project*  
 🔗 [GitHub](#) https://github.com/passgodev/passgo
-
-### 🛠️ Selected Projects
 
 **🔧 Mobile Vulcanization**  
 Technologies: Java, Spring Boot, PostgreSQL, HTML/CSS/JS  
